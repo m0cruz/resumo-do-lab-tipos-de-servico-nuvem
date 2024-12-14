@@ -1,1 +1,22 @@
-# TIPOS DE SERVIÇO DE NUVEM
+## TIPOS DE SERVIÇO DE NUVEM
+
+### IaaS
+
+A empresa fornece os recursos computacionais, a própria infraestrutura, de armazenamento, de desempenho, o hardware em si. No entanto, cabe ao tomador do serviço a configuração geral de vários outros aspectos, como sistema operacional, gerenciamento de máquinas virtuais, dados e aplicativos.
+
+
+### PaaS
+
+A empresa toma todos as responsabilidades anteriores e vai ainda disponibilizar a plataforma a qual será utilizada pelo usuário final. Tais como os sistemas operacionais e sistemas de banco de bancos poderão estar integrados a este serviço. Ou, poderá apenas disponibilizar a plataforma, não necessariamente trabalhando com os servidores ou infraestrutura, trabalhando unicamente com os dados e configurações que forem adequadas.
+
+### SaaS
+
+A empresa atenderá a todas as demandas através da disponibilização de um software totalmente configurado. Podendo simplesmente fornecer uma licença de aplicativo por assinatura, demandando um nível menor de configuração pelo tomador do serviço.
+
+## Modelo de Responsabilidade Compartilhada
+
+IaaS permite uma alta flexibidade da configuração de como a nuvem será utilizada. 
+
+PaaS foca em fornecer plataforma para desenvolvimento de aplicativo, tais como sistemas operacionais e bancos de dados.
+
+SaaS refere a disponibilizar a ferramenta por meio de assinatura, ela é estritamente definida na sua forma de funcionar, cabendo ao tomador deste serviço entender o que é adequado para o negócio.
